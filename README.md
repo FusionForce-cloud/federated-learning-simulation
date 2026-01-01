@@ -145,9 +145,3 @@ The simulation generates:
 - NumPy (for numerical computations)
 - Matplotlib (for visualization)
 - Jupyter (for interactive notebook)
-
-## Further Reading
-
-- [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629) - Original FedAvg paper
-- [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046)
-- [Advances and Open Problems in Federated Learning](https://arxiv.org/abs/1912.04977)
